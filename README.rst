@@ -9,6 +9,7 @@ Acknowledgments
 
 The Python logo is a trademark of the Python Software Foundation. The `Python
 community website`_ contains the full terms and conditions for using the logo.
+The combination of Python's logo on the surfboard is approved by the PSF.
 
 .. _Python community website: http://www.python.org/community/logos/
 
